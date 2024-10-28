@@ -1,16 +1,15 @@
-# **App Burger**
+# **App Folha Pagamento**
 
-> Um aplicativo Android de delivery.
+> Aplicativo que recalcula seu salário com INSS e o IR.
 
 ## 📱 Descrição
 
-O **App Burger** possibilita ao usuário realizar seu cadastro, dando-lhe acesso aos catálogos para que, em seguida, faça seu pedido pelo WhatsApp.
+O **App Folha de Pagamento** solicita a entrada de dados para recalcular seu salário bruto, incluindo os impostos.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Nome, E-mail, Senha e Telefone)
-- [x] Cadastro de usuário
-- [x] Contato para pedido
+- [x] Entrada de dados (Nome, SalarioBruto, Sexo e numeroDeFilhos)
+- [x] cálcular novo salário
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -18,8 +17,8 @@ O **App Burger** possibilita ao usuário realizar seu cadastro, dando-lhe acesso
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView** e **EditText** para entrada e exibição de dados
-- [x] **Button**   para o cadastro, o acesso e o contato do estabelecimento
+- [x] **TextView**, **EditText** e **AlertDialog** e **RadioButton** para entrada e exibição de dados
+- [x] **Button**   para cálcular novo salário
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -99,23 +98,9 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/principal.png?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppFolhaPagamento/blob/master/telaprincipal.jpg?raw=true)
 
-Permite que o cliente faça seu cadastro, para que logo em seguida com seu E-mail e senha, possa acessar outras telas.
-
-
-2. **Tela Cadastro**
-
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/cadastro.png?raw=true)
-
-
-
-
-3. **Telas de Catalogo**
-
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogoa.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogob.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogoc.png?raw=true)
-
-Catálogos que permitem o usúario buscar por seus pedidos atravez dos botões **Voltar** e **Mais...**, com a opção de contato no botão **Fazer pedido**.
+Solicita os dados para calcular o novo salário do usuário
 
 ## 👨‍💻 Desenvolvedores –
 
