@@ -9,7 +9,7 @@ O **App Folha de Pagamento** solicita a entrada de dados para recalcular seu sal
 ## 🔧 Funcionalidades
 
 - [x] Entrada de dados (Nome, SalarioBruto, Sexo e numeroDeFilhos)
-- [x] cálcular novo salário
+- [x] calcula novo salário
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -96,11 +96,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
-   
-![Texto Alternativo](https://github.com/Kist19/AppFolhaPagamento/blob/master/telaprincipal.jpg?raw=true)
+## 1. Tela Principal
 
 Solicita os dados para calcular o novo salário do usuário
+
+![Texto Alternativo](https://github.com/Kist19/AppFolhaPagamento/blob/master/telaprincipal.jpg?raw=true)
 
 ## 👨‍💻 Desenvolvedores –
 
