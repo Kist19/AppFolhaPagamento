@@ -41,7 +41,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │  ├── java/br/ulbra/appFolhaPagamento
+│   │   │  ├── java/br/ulbra/appfolhapagamento
 │   │   │  │  ├── MainActivity.java          # Atividade principal com AppFolhaPagamento
 │   │   │  ├── res
 │   │   │  │   ├── layout
